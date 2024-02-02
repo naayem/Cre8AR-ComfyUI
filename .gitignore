@@ -16,3 +16,9 @@ venv/
 !/web/extensions/core/
 /tests-ui/data/object_info.json
 /user/
+=4.25.1
+=0.3.0
+*.log
+*.json
+*.jpg
+*.png
